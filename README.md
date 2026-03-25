@@ -25,3 +25,4 @@ Parametric & computational design | Generative Design | Adaptive Architecture | 
 - Algorithmic thinking in architecture
 - Performance-driven design
 - Modular and reusable systems
+<!-- **Abdelhameed82/Abdelhameed82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->

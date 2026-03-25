@@ -8,18 +8,13 @@ Hi ! I'm Abdelhameed...
 
 - Rhino + Grasshopper
 - Python (GHPython)
-- 3ds Max
-- AutoCAD
-- Adobe Photoshop
-- Adobe Premiere
 
 ## 🎯 Design Focus
 
 - Parametric & Computational Design  
 - Generative Design Systems  
 - Adaptive & Responsive Architecture  
-- Digital Fabrication  
-- Architectural Visualization  
+- Digital Fabrication   
 
 ## 🧠 Design Approach
 

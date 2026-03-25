@@ -1,9 +1,10 @@
 Hi ! I'm Abdelhameed...
 
-Architect & Computational Designer focused on building parametric systems, generative workflows, and adaptive architectural solutions using Grasshopper & Python.
-I enjoy combining architecture with algorithms to create intelligent and adaptive design systems.
-I have around 3 years of experience in designing & construction.
-I am working for MISK Engineering Consultant in Saudi Arabi.
+-Architect & Computational Designer focused on building parametric systems, generative workflows, and adaptive architectural solutions using Grasshopper & Python.
+
+-Combining architecture with algorithms to create intelligent and adaptive design systems.
+
+-MISK Engineering Consultant (Saudi Arabia)
 
 ## Education
 🎓 Bachelor of Architecture at Tanta univeristy, Faculty of Engineering.
@@ -25,4 +26,18 @@ Parametric & computational design | Generative Design | Adaptive Architecture | 
 - Algorithmic thinking in architecture
 - Performance-driven design
 - Modular and reusable systems
+ 
 <!-- **Abdelhameed82/Abdelhameed82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- 
+## 🧩 Featured Projects
+
+### Parametric Façade System
+Grasshopper + Python system for adaptive façade panels  
+🔗 Behance: your-link  
+🔗 GitHub Repo: your-link (if available)
+
+### Particle-Based Generative Design
+Dynamic system using attractors and force fields  
+🔗 Behance: your-link  
+-->

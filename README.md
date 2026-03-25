@@ -4,11 +4,6 @@ Hi ! I'm Abdelhameed...
 
 -Combining architecture with algorithms to create intelligent and adaptive design systems.
 
--MISK Engineering Consultant (Saudi Arabia)
-
-## Education
-🎓 Bachelor of Architecture at Tanta univeristy, Faculty of Engineering.
-
 ## 🛠 Tools & Technologies
 
 - Rhino + Grasshopper

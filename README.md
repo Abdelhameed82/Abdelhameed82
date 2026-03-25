@@ -18,8 +18,13 @@ Hi ! I'm Abdelhameed...
 - Adobe Photoshop
 - Adobe Premiere
 
-## Interested in
-Parametric & computational design | Generative Design | Adaptive Architecture | concept development | digital fabrication | Exterior design | Architectural Design | Architectural Visualization | Landscape design
+## 🎯 Design Focus
+
+- Parametric & Computational Design  
+- Generative Design Systems  
+- Adaptive & Responsive Architecture  
+- Digital Fabrication  
+- Architectural Visualization  
 
 ## 🧠 Design Approach
 
@@ -36,7 +41,7 @@ Parametric & computational design | Generative Design | Adaptive Architecture | 
 Grasshopper + Python system for adaptive façade panels  
 🔗 Behance: your-link  
 🔗 GitHub Repo: your-link (if available)
-
+![Facade](image-link)
 ### Particle-Based Generative Design
 Dynamic system using attractors and force fields  
 🔗 Behance: your-link  
